@@ -7,7 +7,7 @@
 - What is the largest prime factor of the number 600851475143 ?
 
 ## Instructions
-- Code your procedural solution into the `lib/largest_prime_factor.rb` file. 
+- Code your procedural solution into the `lib/largest_prime_factor.rb` file.
 - Code your object-oriented solution into the `lib/oo_largest_prime_factor.rb` file. Make sure that you set the largest prime factor equal to the `number` attribute of the `LargestPrimeFactor` class.
 - Run `learn` until you get all of the RSpec tests to pass.
 
